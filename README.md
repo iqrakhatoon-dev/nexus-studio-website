@@ -30,8 +30,7 @@ with HTML, CSS, JavaScript and GSAP animations.
 - Google Fonts (Syne)
 
 ## 📸 Preview
-![Preview](
-<img width="1909" height="909" alt="Screenshot 2026-03-08 214737" src="https://github.com/user-attachments/assets/9bbc3573-a09e-42bf-bad2-0843ab1cd55f" />)
+<img width="1909" height="909" alt="Screenshot 2026-03-08 214737" src="https://github.com/user-attachments/assets/9bbc3573-a09e-42bf-bad2-0843ab1cd55f" />
 
 ## 🚀 Getting Started
 ```bash
