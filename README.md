@@ -34,7 +34,7 @@ with HTML, CSS, JavaScript and GSAP animations.
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/your-username/nexus-studio-website.git
+git clone https://github.com/iqrakhatoon-dev/nexus-studio-website.git
 ```
 Open `index.html` in your browser.
 
