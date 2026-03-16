@@ -5,7 +5,7 @@ A premium design agency website inspired by
 with HTML, CSS, JavaScript and GSAP animations.
 
 ## 🔗 Live Demo
-[View Live →](your-vercel-link-here)
+[View Live →]([vercel-link-here](https://nexus-studio-website.vercel.app/))
 
 ## ✨ Features
 - Smooth locomotive scroll
